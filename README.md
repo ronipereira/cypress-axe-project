@@ -1,7 +1,7 @@
 # cypress-axe-project
 Projeto de teste de acessibilidade com cypress &amp; axe
 
-Installation and Setup
+## Installation and Setup:
 First things first, let's cover the installation and setup.
 
 I've got my terminal open here.
